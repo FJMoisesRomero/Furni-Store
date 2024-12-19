@@ -1,6 +1,6 @@
 # 🛍️ Furni-Store
 
-**Furni-Store** es un sistema de gestión de comercio electrónico desarrollado en PHP y MySQL. Este proyecto tiene como objetivo proporcionar una plataforma para administrar productos, clientes y transacciones de manera eficiente.
+**Furni-Store** es un sistema de gestión de comercio electrónico desarrollado en PHP y MySQL con librerias de Bootstrap y TailwindCSS. Este proyecto tiene como objetivo proporcionar una plataforma para administrar productos, clientes y transacciones de manera eficiente.
 
 ## 🚀 Características principales
 - 🛒 **Gestión de productos**: Agregar, editar y eliminar productos del inventario.
